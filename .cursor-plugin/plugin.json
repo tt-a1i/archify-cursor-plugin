@@ -1,0 +1,19 @@
+{
+  "name": "archify",
+  "version": "3.0.1",
+  "description": "Generate interactive diagrams from descriptions, Mermaid input, or repository evidence.",
+  "author": {
+    "name": "tt-a1i"
+  },
+  "homepage": "https://tt-a1i.github.io/archify/",
+  "repository": "https://github.com/tt-a1i/archify-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "diagrams",
+    "architecture",
+    "workflow",
+    "sequence",
+    "agent-skills"
+  ],
+  "skills": "./skills/"
+}
